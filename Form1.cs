@@ -1,3 +1,5 @@
+using Telegram.Bot;
+
 namespace FenixServiceApp
 {
     public partial class Form1 : Form
@@ -6,5 +8,12 @@ namespace FenixServiceApp
         {
             InitializeComponent();
         }
+    }
+
+
+    class TelegramLink
+    {
+        // public TelegramLink() { };
+        
     }
 }
